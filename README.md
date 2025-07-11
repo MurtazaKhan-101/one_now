@@ -743,4 +743,28 @@ vehicle_response = requests.post(f"{base_url}/vehicles/",
 
 ---
 
+## About 1Now
+
+1Now is a software company that provides digital solutions to the car rental businesses by providing them customized websites that are tailored according to their brand identity
+
+It provides the following services:
+
+- Real-time fleet tracking
+- Automated bookings & payments  
+- Expense tracking + profit insights
+- Stripe & Square integration
+- Analytics to grow your business
+
+---
+
+## Backend Integration with LahoreCarRental.com
+
+This backend can be integrated with the frontend in the following ways:
+
+- By enabling CORS and allowing the api to be consumed by all platforms
+- Hosting the backend on a server so that the request can be made on the backend from anywhere in the world
+- We can use Nginx and gunicorn to deploy our DRF backend on a Linux machine so that those APIs can be easily used in production
+
+---
+
 *Last updated: July 11, 2025*
