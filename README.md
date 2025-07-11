@@ -761,7 +761,7 @@ It provides the following services:
 
 This backend can be integrated with the frontend in the following ways:
 
-- By enabling CORS and allowing the api to be consumed by all platforms
+- By enabling CORS and allowing the APIs to be consumed by all platforms
 - Hosting the backend on a server so that the request can be made on the backend from anywhere in the world
 - We can use Nginx and gunicorn to deploy our DRF backend on a Linux machine so that those APIs can be easily used in production
 
